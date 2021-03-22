@@ -26,3 +26,8 @@ __this will also be bold__
 3. Item 3
     * Item 3a
     * Item 3b
+
+![github logo](/images/logo.png)
+
+format: ![Alt text](url)
+
