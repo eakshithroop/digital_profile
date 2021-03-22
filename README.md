@@ -7,8 +7,10 @@
   
 * This text will be italic *
 _This will also be italic_
+
 ** This text will be bold **
 __this will also be bold__
+
 *you **can** combine then*
 
 
