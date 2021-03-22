@@ -1,4 +1,4 @@
-eakshithroop
+Pendem Eakshith Roop
 ============
 
 -------------------     ----------------------------
@@ -18,7 +18,7 @@ btech csbs rvrjc clg of engineering Guntur
 : 
 Narayana junior clg 
 
-    *Minor: Awesomeology*
+    *Minor: Awesomeology
 
 
 Technical Experience
@@ -26,4 +26,20 @@ Technical Experience
 c
 c++
 python
+oracle
+
+Extra languages
+---------------
+english
+telugu
+hindi
+
+College name
+------------
+Rvrjc college of engineering
+
+Address
+-------
+Chowdawaram,Guntur
+
 
